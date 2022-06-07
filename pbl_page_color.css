@@ -1,0 +1,32 @@
+
+.back_color {
+  height: 75px;
+  padding: 20px;
+  font-size: 18px;
+  background-color: rgb(65, 129, 121);
+}
+
+.back_color2 {
+  height: 1100px;
+  padding: 20px;
+  font-size: 18px;
+  background-color: rgb(65, 129, 92);
+}
+
+.font_color {
+  font-size: 20px;
+  color: #c7e9de
+}
+
+.font_color2 {
+  font-size: 18px;
+  color: #bbd8ce
+}
+
+<style>
+  body {background: #5e3063;}
+  h1 {font-size: 20px, color: mediumaquamarine;}
+  h2 {font-size: 14px, color:#bbd8ce}
+</style>
+
+
